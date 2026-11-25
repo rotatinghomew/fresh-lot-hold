@@ -1,0 +1,8 @@
+{"id":"in-a","kind":"source","lot":"crop-a","entity":"supplier-q","grams":2500}
+{"id":"in-b","kind":"source","lot":"crop-b","entity":"supplier-q","grams":2400}
+{"id":"in-c","kind":"source","lot":"crop-c","entity":"supplier-z","grams":1400}
+{"id":"p-a","kind":"pack","lot":"tray-a","entity":"shop-7","grams":1200,"input":{"crop-a":500,"crop-b":700}}
+{"id":"p-b","kind":"pack","lot":"tray-b","entity":"shop-7","grams":700,"input":{"tray-a":350,"crop-b":350}}
+{"id":"p-c","kind":"pack","lot":"tray-c","entity":"shop-2","grams":450,"input":{"basket-late":450}}
+{"id":"p-late","kind":"pack","lot":"basket-late","entity":"shop-7","grams":500,"input":{"crop-c":500}}
+{"id":"p-error","kind":"pack","lot":"tray-a","entity":"shop-7","grams":1700,"input":{"tray-b":1600}}

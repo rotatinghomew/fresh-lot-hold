@@ -1,0 +1,6 @@
+{"piece":"a-1","lot":"tray-a","order":"o-1","from":"shop-7","to":"rider-1","kind":"pickup","occurred_at":"2026-11-26T09:06:00+08:00"}
+{"piece":"b-1","lot":"tray-b","order":"o-1","from":"shop-7","to":"rider-1","kind":"pickup","occurred_at":"2026-11-26T09:06:00+08:00"}
+{"piece":"c-1","lot":"tray-c","order":"o-2","from":"shop-2","to":"rider-2","kind":"pickup","occurred_at":"2026-11-26T09:00:00+08:00"}
+{"piece":"a-1","lot":"tray-a","from":"rider-1","to":"u-1","kind":"customer","occurred_at":"2026-11-26T09:09:00+08:00","order":"o-1","contact":"customer-box-a"}
+{"piece":"c-1","lot":"tray-c","from":"rider-2","to":"u-2","kind":"customer","occurred_at":"2026-11-26T09:14:00+08:00","order":"o-2","contact":null}
+{"piece":"b-1","lot":"tray-b","from":"rider-1","to":"shop-7","kind":"return","occurred_at":"2026-11-26T09:16:00+08:00"}

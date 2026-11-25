@@ -1,0 +1,3 @@
+{"notice":"hold-1","revision":1,"roots":["crop-a","crop-c"],"shops":["shop-7"],"effective_at":"2026-11-26T09:10:00+08:00"}
+{"notice":"hold-2","revision":1,"roots":["crop-b"],"shops":["shop-7","shop-2"],"effective_at":"2026-11-26T09:11:00+08:00"}
+{"notice":"hold-1","revision":2,"roots":["crop-c"],"shops":["shop-7","shop-2"],"effective_at":"2026-11-26T09:12:00+08:00"}
